@@ -1,7 +1,7 @@
 BST
 ===
 
-An implementation of a BST class, along with a set of unittetst test cases. The BST class can do the following:
+An implementation of a BST class, along with a set of unittest test cases. The BST class can do the following:
 
 - Find the height and depth of a particular node
 
